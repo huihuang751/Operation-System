@@ -19,11 +19,8 @@ The next task is to modify the shell interface program so that it provides a *hi
 
 ---
 # Result
-## Running shell
-** Figure **
-## Entering !! command
-No Command in history because it is first time enter *'!!'*
-** Figure **
-## Entering ls command
+## Starting shell and show history
 Successfully show previous and execute ls command
-** Figure **
+![](https://github.com/huihuang751/Operation-System/blob/main/Projects/Chapter-3/show_history.png)
+## Exectue help, cd, and exit shell
+
