@@ -1,5 +1,5 @@
 # Operation System Homework 1
-## Programming Problems 3.15
+## Programming Problems 3.22
 In Exercise 3.14, the child process must output the sequence of numbers generated from the algorithm specified by the Collatz conjecture because the parent and child processes have their own copies of the data. 
 
 Another approach to redesign this program is to establish a shared-memory object between the parent and child processes. This technique allows the child to write the contents of the sequence to the shared-memory object. The parent can then output the sequence when the child completes. 
